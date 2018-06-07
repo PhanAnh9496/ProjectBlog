@@ -1,0 +1,6 @@
+{
+    "titleProduct":"Top 10 ngôn ngữ lập trình được sử dụng nhiều nhất ở Silicon Valley",
+    "anh":["images\\imgproduct\\1524451127941-1.jpeg"],
+    "Description": "Addy Osmani là một gương mặt rất quen thuộc trong cộng đồng phát triển web. Anh là tác giả của TodoMVC",
+    "contentProduct": "Khi các website chúng ta xây dựng ngày càng phụ thuộc vào JavaScript, thỉnh thoảng chúng ta cũng phải trả giá cho những gì được gửi về phía người dùng, theo những cách không dễ nhìn thấy . Trong bài viết này, tôi sẽ nói về lý do tại sao một chút kỷ luật có thể giúp nếu bạn muốn website của mình có thể tải và phản ứng một cách nhanh chóng trên các thiết bị di động. Khi nghĩ về chi phí cho JavaScript, hầu hết các lập trình viên nghĩ về mặt chi phí tải và thực thi mã lệnh. Kết nối Internet của người dùng càng chậm thì gửi nhiều bytes JavaScript về phía họ càng lâu. Điều này cũng có thể là một vấn đề với cả những nước đã phát triển, vì kết nối mạng đang sử dụng của một người dùng có thể không thật sự là 3G, 4G hay WiFi. Bạn có thể đang vào mạng WiFi của một quán cà phê, nhưng đang kết nối với một hotspot di động với tốc độ 2G."
+}
